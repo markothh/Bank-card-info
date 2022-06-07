@@ -1,0 +1,11 @@
+.payInfo {
+  width: 50%;
+  background-color: #eeeeee;
+  padding: 3rem 3rem 3rem 3rem;
+  margin: 5rem auto;
+}
+
+a, a:visited {
+  color: blue;
+  text-decoration: none;
+}
